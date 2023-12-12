@@ -10,6 +10,11 @@ This code implements a simple TCP server that accepts client connections and pro
 - Parses the request route and responds with specific data for known routes.
 - Supports a specific route, "/resposta1," returning specific content defined in the code.
 
+- ![image](https://github.com/C4mps41205/ApiWithSocket/assets/93053849/ab48a29d-b720-4b4b-9cc4-199ff04b19c0)
+- ![image](https://github.com/C4mps41205/ApiWithSocket/assets/93053849/dbcb25ce-b6b3-4a27-a7a3-51ced63f867d)
+
+
+
 ## How to Use
 
 ### Prerequisites
