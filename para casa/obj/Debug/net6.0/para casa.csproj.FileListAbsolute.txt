@@ -1,0 +1,17 @@
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\para casa.exe
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\para casa.deps.json
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\para casa.runtimeconfig.json
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\para casa.dll
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\para casa.pdb
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.csproj.AssemblyReference.cache
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.AssemblyInfoInputs.cache
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.AssemblyInfo.cs
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.csproj.CoreCompileInputs.cache
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.dll
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\refint\para casa.dll
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.pdb
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.genruntimeconfig.cache
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\ref\para casa.dll
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rache\Documents\Projetos Lucas\para casa\para casa\obj\Debug\net6.0\para casa.csproj.CopyComplete
